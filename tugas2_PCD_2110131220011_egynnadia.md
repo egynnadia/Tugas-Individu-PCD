@@ -1,4 +1,5 @@
 <h1 align = justify> Tugas 2<br> Pemrosesan Citra Digital</h1>
+
 # NIM   : 2110131220011
 # NAMA  : Egyn T. Nadia
 
