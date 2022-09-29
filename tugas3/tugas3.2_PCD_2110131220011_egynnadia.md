@@ -30,6 +30,6 @@ Halftoning mencoba untuk memberikan kesan warna biner tampak seperticitra abu-ab
 <p align = "justify">
 
 ![dithering1](dithering.png)
-![dithering1](dithering2.png)
+![dithering2](dithering2.png)
 
 </p>
