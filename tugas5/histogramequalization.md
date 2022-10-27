@@ -15,3 +15,7 @@
 - Nilai CDF berada pada rentang 0-1, jadi kita kalikan semua nilai CDF dengan nilai intensitas terbesar yaitu 255.
 - Bulatkan nilai akhir menjadi nilai integer.
  </p>
+
+https://www.geeksforgeeks.org/how-to-solve-histogram-equalization-numerical-problem-in-matlab/
+
+http://what-when-how.com/embedded-image-processing-on-the-tms320c6000-dsp/histogram-equalization-image-processing-part-1/
